@@ -15,8 +15,10 @@ geth attach geth.ipc
 ```
 
 # 为合约的部署准备条件
+```Bash
+personal.newAccount('passwd')    #创建帐户，passwd 替换成你自己的密码
 miner.start()
 miner.stop()
-
+```
 
 # Pass the parameter to the test.py
