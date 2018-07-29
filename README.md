@@ -1,5 +1,5 @@
 # BlockChain_Record
-A simple blockchain to record the operation records on the distributed mongodb
+A simple blockchain to record the operation on the distributed mongodb netdisk
 # 初始化区块链
 
 ```Bash
