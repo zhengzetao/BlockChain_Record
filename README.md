@@ -22,6 +22,8 @@ miner.stop()
 ```
 
 # 上传值到区块链
+```Bash
 python test.py filehash filename filesize owner operation
+```
 filehash 为文件的hash值，filename为操作的文件名，filesize为操作的文件大小，
 owner为操作人，operation为操作的类型
